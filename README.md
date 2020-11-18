@@ -1,4 +1,4 @@
-### Not a great developer or operator.  
+### Your favorite developers' least favorite devops advocate.  
 More of a salesy **excellent people person and team builder.** I've been development adjacent since 2008 with weird work experience at exciting organizations.
 
 Multi-faceted professional with failures such as:
