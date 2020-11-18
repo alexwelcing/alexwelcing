@@ -10,7 +10,7 @@ And somehow, I am now in a consulting developer role working with an American La
 
 When I have time for academic development work latest focus is on systems. Starting Rust in 2020 to join the happy and diverse community of developers singing the praises of a language with great documentation and a  fun building experience.
 
-My last presentation was at Google Cloud Next in 2018 discussing practical challenges and considerations for NLP in Healthcare and Legal contexts. Amazing teams involved in the development there! I don't even navigate the CLI successfully in the demo!
+My last presentation was at Google Cloud Next in 2018 discussing practical and ethical challenges for NLP in Healthcare and Legal contexts. Amazing teams involved in the development there! I don't even navigate the CLI successfully in the demo!
 
 Will **happily help anyone** getting started or established. Learn from my mistakes, access my network, portfolio/CV review, foot in the door tips, etc. I've got hours set aside for this! Electronic mail me here ->>> *aw then the at sign followed by atrispina dot com*
 
