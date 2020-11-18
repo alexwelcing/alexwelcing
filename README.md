@@ -1,5 +1,5 @@
 ### Not a great developer or operator.  
-More of a salesy **excellent people person and team builder.** I've been development adjascent since 2008 with weird work experience at exciting organizations.
+More of a salesy **excellent people person and team builder.** I've been development adjacent since 2008 with weird work experience at exciting organizations.
 
 Multi-faceted professional with failures such as:
  - #1 Salesperson @ magazine cover worthy "Best Place to Work" Startup. Turned cold calls into new contracts with some of the largest publishers in the world. AI + publishing!
